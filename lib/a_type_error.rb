@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number".to.i
+1 + 1
